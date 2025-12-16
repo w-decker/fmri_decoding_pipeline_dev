@@ -2,7 +2,7 @@
 
 This code simulates fMRI volumes for multivariate decoding for a single or multi-subject regime.
 
-```{mermaid}
+```mermaid
 ---
 title: Flow
 ---
