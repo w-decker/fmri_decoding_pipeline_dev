@@ -208,3 +208,5 @@ __marimo__/
 
 *.PAR
 optseq2
+simulation/test.ipynb
+*.DS_Store
